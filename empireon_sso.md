@@ -90,7 +90,7 @@ https://auth.empireone.com.au/auth/authenticate/
 
 
 > Request params
-  - GET
+  - POST
   - Content-type:application/json
   - Params:
       -- code:         a2683ab8-d383-4263-bb93-f8cf25647f60 --- this is a demo code
