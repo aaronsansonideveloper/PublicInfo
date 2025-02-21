@@ -59,7 +59,7 @@ https://uat.empireone.com.au/api/cognito/generate/forget-password
 https://auth.empireone.com.au/api/cognito/generate
 
 > Request params
-  - POST
+  - GET
   - Content-type:application/json
   - Params:
       -- redirect_uri: https://empiretraveller.com.au/cognito/verification-successful/
